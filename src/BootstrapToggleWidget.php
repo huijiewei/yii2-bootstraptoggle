@@ -8,6 +8,8 @@
 
 namespace huijiewei\bootstraptoggle;
 
+use yii\helpers\ArrayHelper;
+use yii\helpers\Html;
 use yii\widgets\InputWidget;
 
 class BootstrapToggleWidget extends InputWidget
